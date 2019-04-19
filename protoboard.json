@@ -1,0 +1,7 @@
+{
+  "browserify": {
+    "dist/browserified.js": "browserify.js"
+  },
+  "dependencies": {
+  }
+}

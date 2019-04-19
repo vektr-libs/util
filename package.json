@@ -1,0 +1,25 @@
+{
+  "name": "vektr_utillib",
+  "version": "1.0.0",
+  "description": "Util lib for Vektr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vektr-libs/util.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "util",
+    "lib",
+    "vektr"
+  ],
+  "author": "Luka Petrovic <lukapetrovicsi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vektr-libs/util/issues"
+  },
+  "homepage": "https://github.com/vektr-libs/util#readme"
+}
